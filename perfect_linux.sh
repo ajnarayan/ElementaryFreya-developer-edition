@@ -23,7 +23,7 @@ sudo apt install google-chrome-stable
 sudo apt-get install python-pip
 
 #install LAMP for local development
-sudo apt-get install lamp-server
+sudo apt-get install lamp-server^
 
 #sublime-text-3
 sudo add-apt-repository ppa:webupd8team/sublime-text-3
